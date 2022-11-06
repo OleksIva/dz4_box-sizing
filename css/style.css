@@ -75,7 +75,7 @@ h1 + p {
     background: rgba(231, 231, 231, 0.752);
     width: 350px;
     height: 380px;
-    display: inline-table;
+    display: inline-block;
     padding: 10px;
     border-radius: 10px;
     border: solid rgb(88, 88, 88);
@@ -85,7 +85,7 @@ h1 + p {
 .child:hover {
     transform: scale(1.1); 
     background-color: rgb(187, 203, 232) ;
-   }
+}
 
 .image {
     width: 100%;
