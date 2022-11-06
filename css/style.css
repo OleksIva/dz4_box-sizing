@@ -77,8 +77,8 @@ h1 + p {
     height: 380px;
     display: inline-table;
     padding: 10px;
-    outline: solid grey;
     border-radius: 10px;
+    border: solid rgb(88, 88, 88);
     margin: 7px;
 }
 .image {
